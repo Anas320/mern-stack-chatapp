@@ -62,21 +62,13 @@ This is a chat application built with React for the frontend and Node.js with Ex
 
 ## Usage
 
-1. **Start the backend server:**
+1. **Backend and Frontend Servers Start Concurrently:**
 
    ```bash
-   cd server
    npm start
    ```
 
-2. **Start the frontend development server:**
-
-   ```bash
-   cd ../client
-   npm start
-   ```
-
-3. **Open your browser and navigate to:**
+2. **Open your browser and navigate to:**
 
    ```
    http://localhost:3000
