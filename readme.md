@@ -35,8 +35,8 @@ This is a chat application built with React for the frontend and Node.js with Ex
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/chat-application.git
-   cd chat-application
+   git clone https://github.com/Anas320/mern-stack-chatapp
+   cd mern-stack-chatapp
    ```
 
 2. **Install dependencies:**
@@ -81,9 +81,3 @@ This is a chat application built with React for the frontend and Node.js with Ex
    ```
    http://localhost:3000
    ```
-
-## File Structure
-
-The application is divided into frontend and backend directories with the following structure:
-
-### Frontend
